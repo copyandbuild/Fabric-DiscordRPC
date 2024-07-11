@@ -1,10 +1,10 @@
-# Fabric-DiscordRPC
+# Fabric-DiscordRPC - GameSDK
 
 <h2>SIMPLE DISCORD RPC CODE FOR FABRIC-MODDING</h2>
 
-### Informations:
+## CODED IN `FABRIC-1.21` | Maybe things are changed in older versions
 
-##You need to add the DiscordSDK4J modImplementation OTHERWISE, IT **WONT** work!
+## You need to add the DiscordSDK4J modImplementation OTHERWISE, IT **WONT** work!
 
 <h2>FOR GRADLE</h2>
 
@@ -17,7 +17,7 @@ dependencies {
 ```
 
 **GRADLE repositories**
-```gradle:
+```gradle
 repositories {
 	mavenCentral()
 	maven { url 'https://jitpack.io/' }
